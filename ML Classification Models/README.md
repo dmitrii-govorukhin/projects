@@ -1,14 +1,14 @@
-Consumer:                   FTB
+**Consumer:**                  FTB
 
-Year:                       2023
+**Year:**                       2023
 
-Project:                    Building, training and testing Machine Learning classification models.
+**Project:**                    Building, training and testing Machine Learning classification models.
 
-Program languages:          Python
+**Program languages:**          Python
 
-Python libraries are used: 	numpy, pandas, sklearn, matplotlib, seaborn, etc
+**Python libraries are used:** 	numpy, pandas, sklearn, matplotlib, seaborn, etc
 
-Illustration:               ML Model Confusion Matrix, TPR/FPR and Precision-Recall AUC curves
+**Illustration:**               ML Model Confusion Matrix, TPR/FPR and Precision-Recall AUC curves
 
 
 ![alt text](https://github.com/dmitrii-govorukhin/projects/blob/main/ML%20Classification%20Models/Confusion%20Matrix.png?raw=true)
