@@ -1,7 +1,7 @@
-Consumer:					Pension Fund RF
+**Consumer:**					Pension Fund RF
 
-Year:						2018
+**Year:**						2018
 
-Project: 					Deployment IBM Tivoli Monitoring System, Help Desk Integration.
+**Project:** 					Deployment IBM Tivoli Monitoring System, Help Desk Integration.
 
-Program languages:			Bash, PHP, SQL, JavaScript
+**Program languages:**			Bash, PHP, SQL, JavaScript
