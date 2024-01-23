@@ -1,4 +1,4 @@
-Examples of code I've written from projects I've participated in:
+Examples of code I've written from some of the projects I've participated in:
 
 - 👀 2018 - IBM Monitoring Portal (Bash, PHP, SQL, JavaScript)
 
