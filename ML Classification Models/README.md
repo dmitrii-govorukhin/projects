@@ -8,4 +8,6 @@ Program languages:          Python
 
 Python libraries are used: 	numpy, pandas, sklearn, matplotlib, seaborn, etc
 
-![alt text](https://github.com/dmitrii-govorukhin/projects/blob/main/Confusion_Matrix.png?raw=true)
+Illustration:               ML Model Confusion Matrix
+
+![alt text](https://github.com/dmitrii-govorukhin/projects/blob/main/ML%20Classification%20Models/Confusion%20Matrix.png?raw=true)
